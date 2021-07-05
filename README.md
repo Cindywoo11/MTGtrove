@@ -39,7 +39,7 @@ CI/CD pipeline built using GitHub actions
 * Build Docker image
 * Push to DockerHub
 
-![image](https://user-images.githubusercontent.com/82949691/124372089-abd7b380-dcba-11eb-9cf0-7243154f725d.png)
+![image](https://user-images.githubusercontet.com/82949691/124372089-abd7b380-dcba-11eb-9cf0-7243154f725d.png)
 
 Notifications
 * Twilio SMS notification on pull request
